@@ -13,6 +13,9 @@ let exerciseList = [
   { type: DURATION_EXERCISE, name: "Rowing" },
   { type: DURATION_EXERCISE, name: "Swimming" },
   { type: REPETITION_EXERCISE, name: "Push Ups" },
+  { type: "running", name: "Running Exercise" },
+
+  // Add the RunningExercise
 ];
 
 function App() {
